@@ -1,2 +1,10 @@
 # foodplus-api
-Demostração de uma API em .netcore 3.1 utilizando os coceitos de DTO, Domain, Repository, Injeção de depência e documentação com swagger.
+
+Este projeto tem como intuito fazer uma demostração de uma API em .netcore 3.1 utilizando os conceitos:
+
+- DTO;
+- Domain;
+- Repository;
+- DI;
+- Documentação com Swagger;
+- Versionamento;
